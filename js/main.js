@@ -6,7 +6,7 @@ $(document).ready(function(){
         fade: true,
         responsive: [
             {
-                breakpoint: 441,
+                breakpoint: 241,
                 settings: {
                     arrows: false
                 }
@@ -22,7 +22,7 @@ $(document).ready(function(){
         fade: true,
         responsive: [
             {
-                breakpoint: 441,
+                breakpoint: 241,
                 settings: {
                     arrows: false
                 }
@@ -37,7 +37,7 @@ $(document).ready(function(){
         fade: true,
         responsive: [
             {
-                breakpoint: 441,
+                breakpoint: 241,
                 settings: {
                     arrows: false
                 }
@@ -52,7 +52,7 @@ $(document).ready(function(){
         fade: true,
         responsive: [
             {
-                breakpoint: 441,
+                breakpoint: 241,
                 settings: {
                     arrows: false
                 }

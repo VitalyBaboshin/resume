@@ -420,6 +420,7 @@ p {
     bottom: 0;
 }
 .link-hover {
+    font-size: 1rem;
     text-decoration: none;
     transition: color 1s;
 }
